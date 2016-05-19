@@ -55,7 +55,7 @@
 }
 
 body {
-  background: #ffffff url("teddybear.jpg") no-repeat bottom left;
+  background: #ffffff url("./images/teddybear.jpg") no-repeat bottom left;
   margin-left: 200px;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
