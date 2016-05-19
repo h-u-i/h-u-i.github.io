@@ -55,8 +55,7 @@
 }
 
 body {
-  background-color: #ffffff 
-  background-image: url("./images/unicorn.jpg");
+  background: #ffffff url("./images/unicorn.jpg");
   margin-left: 200px;
 }
 
