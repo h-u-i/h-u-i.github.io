@@ -55,7 +55,7 @@
 }
 
 body {
-  background: url('https://media2.giphy.com/media/WZmgVLMt7mp44/200_s.gif') no-repeat left;
+  background: url('https://media2.giphy.com/media/WZmgVLMt7mp44/200_s.gif') no-repeat fixed;
   margin-left: 200px;
 }
 
