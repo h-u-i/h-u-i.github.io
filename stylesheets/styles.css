@@ -55,7 +55,7 @@
 }
 
 body {
-  background: url(../images/teddybear.jpg) no-repeat fixed;
+  background: url('../images/teddybear.jpg') no-repeat fixed;
   margin-left: 200px;
 }
 
