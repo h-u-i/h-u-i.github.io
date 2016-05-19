@@ -55,7 +55,7 @@
 }
 
 body {
-  background: url("../images/teddybear.jpg");
+  background-image: url(../images/teddybear.jpg);
   margin-left: 200px;
 }
 
