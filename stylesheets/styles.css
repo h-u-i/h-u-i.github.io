@@ -55,6 +55,7 @@
 }
 
 body {
-  background: url(file:///MacintoshHD/Users/ashleyhui/Projects/h-u-i.github.io-master/images/teddybear.jpg);
+  background: url(../../images/teddybear.jpg);
+  margin: 200 px
 }
 
