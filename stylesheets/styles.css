@@ -55,12 +55,13 @@
 }
 
 body {
-  background: #ffffff url("./images/teddybear.jpg") no-repeat bottom left;
-  /* margin-left: 200px; */
-  /* padding:50px; */
-  /* font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  /* color:#727272; */
-  /* font-weight:400; */
+  background-color: #ffffff 
+  background-image: url("./images/teddybear.jpg");
+  margin-left: 200px;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
