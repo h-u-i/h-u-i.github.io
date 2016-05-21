@@ -55,6 +55,6 @@
 }
 
 body {
-  background: #fff url(teddybear.jpg);
+  background: #fff url('teddybear.jpg');
 }
 
