@@ -6,6 +6,35 @@
     }
 }
 
+@media screen and (max-width: 640px) and (min-width: 500px) {
+    h1 {
+        font-size: 5vw;
+    }
+    h4 {
+        font-size: 2.5vw;
+    }
+    
+    body .header__logo {
+        width: 12%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 501px) {
+    h1 {
+        font-size: 25px;
+    }
+    h4 {
+        font-size: 12px;
+    }
+
+    body .header__logo {
+        width: 46.66px;
+        height: 46.66px;
+    }
+
+}
+
 body {
     font-family: sans-serif;
     font-weight: 100;
