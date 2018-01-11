@@ -34,7 +34,7 @@
     }
 
 }
-a {
+a, p {
     text-decoration: none;
     color: black;
 }
