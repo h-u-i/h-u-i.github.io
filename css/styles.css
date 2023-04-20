@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 501px) {
     h1 {
-        font-family: 'Garamond', Times, serif;
+        font-family: 'Garamond', 'Palatino';
         font-size: 25px;
     }
 
