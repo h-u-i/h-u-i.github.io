@@ -69,7 +69,6 @@ body {
 }
 
 h1 {
-    text-transform: uppercase;
     color: #2d3c49;
     font-weight: 100;
     margin-top: 0px;
@@ -78,7 +77,6 @@ h1 {
 
 h4 {
     color: #2d3c49;
-    text-transform: uppercase;
     margin-top: 0px;
     margin-bottom: 0px;
     font-weight: 150;
