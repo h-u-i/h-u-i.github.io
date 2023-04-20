@@ -98,7 +98,8 @@ h4 {
 }
 
 .body__image {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 
 .footer__quote {
