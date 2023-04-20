@@ -97,8 +97,13 @@ h4 {
     box-sizing: border-box;
 }
 
-.body__image {
+.header__image {
     max-width: 50%;
+    height: auto;
+}
+
+.body__image {
+    max-width: 100%;
     height: auto;
 }
 
