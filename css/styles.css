@@ -1,8 +1,9 @@
 @media screen and (min-width: 1250px) {
-    body .container{
+    body .container {
         max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
+        background-color: #FDE6DC;
     }
 }
 
@@ -10,15 +11,16 @@
     h1 {
         font-size: 5vw;
     }
+
     h4 {
         font-size: 2.5vw;
     }
-    
+
     body .header__logo {
         width: 12%;
         height: auto;
     }
-    
+
     body .footer__quote {
         font-size: 2.5vw;
     }
@@ -29,6 +31,7 @@
     h1 {
         font-size: 25px;
     }
+
     h4 {
         font-size: 12px;
     }
@@ -37,7 +40,7 @@
         width: 46.66px;
         height: 46.66px;
     }
-    
+
     body .footer__quote {
         font-size: 12px;
     }
@@ -61,11 +64,11 @@ body {
 }
 
 h1 {
-   text-transform: uppercase;
-   color: #2d3c49;
-   font-weight: 100;
-   margin-top: 0px;
-   margin-bottom: 0px;
+    text-transform: uppercase;
+    color: #2d3c49;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 h4 {
@@ -89,8 +92,8 @@ h4 {
 }
 
 .header__logo {
-    width: 60px;
-    height: 60px;
+    width: 120px;
+    height: 120px;
     box-sizing: border-box;
 }
 
@@ -102,6 +105,7 @@ h4 {
     margin-left: 10%;
     margin-right: 10%;
 }
+
 .footer {
     position: fixed;
     left: 0;
