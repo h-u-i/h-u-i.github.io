@@ -77,6 +77,10 @@ h1 {
     margin-bottom: 0px;
 }
 
+h2 {
+    display: inline;
+}
+
 h4 {
     color: #585e44;
     margin-top: 0px;
