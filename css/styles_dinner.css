@@ -59,8 +59,8 @@ body {
     font-family: 'Didot';
     font-weight: 50;
     margin: 0;
-    background-color: #fff9f6;
-    color: #585e44;
+    background-color: #FDE6DC;
+    color: #2d3c49;
 }
 
 .container {
@@ -70,19 +70,14 @@ body {
 }
 
 h1 {
-    color: #b1a96b;
-    font-weight: 90;
+    color: #2d3c49;
+    font-weight: 100;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-h2 {
-    display: inline;
-}
-
 h4 {
-    display: inline;
-    color: #585e44;
+    color: #2d3c49;
     margin-top: 0px;
     margin-bottom: 0px;
     font-weight: 150;
