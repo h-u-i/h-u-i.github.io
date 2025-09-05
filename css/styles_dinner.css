@@ -9,7 +9,7 @@
 @media screen and (max-width: 640px) and (min-width: 500px) {
     h1 {
         font-family: 'Garamond', 'Palatino';
-        font-size: 1vw;
+        font-size: 10vw;
     }
 
     h2 {
