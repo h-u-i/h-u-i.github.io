@@ -63,7 +63,6 @@ a {
 body {
     font-family: 'Didot';
     font-weight: 50;
-    margin: 0;
     background-color: #ffffff;
     color: #2d3c49;
 }
@@ -77,21 +76,15 @@ body {
 h1 {
     color: #2d3c49;
     font-weight: 100;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 h2 {
     color: #2d3c49;
     font-weight: 125;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 h4 {
     color: #2d3c49;
-    margin-top: 0px;
-    margin-bottom: 0px;
     font-weight: 150;
 }
 
